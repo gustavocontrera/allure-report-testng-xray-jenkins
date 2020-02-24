@@ -19,7 +19,6 @@
         <testng.version>6.14.3</testng.version>
         <ashot.version>1.5.4</ashot.version>
         <allure.testng.version>2.12.0</allure.testng.version>
-        <extendreports.version>2.41.2</extendreports.version>
         <allure.version>1.5.4</allure.version>
         <aspectj.version>1.9.4</aspectj.version>
         <allure.jira.version>2.13.1</allure.jira.version>
