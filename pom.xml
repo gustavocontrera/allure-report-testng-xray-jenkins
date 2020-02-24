@@ -60,11 +60,6 @@
             <version>${allure.testng.version}</version>
         </dependency>
         <dependency>
-            <groupId>com.relevantcodes</groupId>
-            <artifactId>extentreports</artifactId>
-            <version>${extendreports.version}</version>
-        </dependency>
-        <dependency>
             <groupId>io.qameta.allure</groupId>
             <artifactId>allure-jira-commons</artifactId>
             <version>${allure.jira.version}</version>
