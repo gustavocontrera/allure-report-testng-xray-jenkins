@@ -75,7 +75,6 @@
             <artifactId>converter-jackson</artifactId>
             <version>${converter.jackson.version}</version>
         </dependency>
-
     </dependencies>
 
     <build>
