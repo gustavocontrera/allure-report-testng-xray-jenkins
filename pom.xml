@@ -21,7 +21,7 @@
         <allure.testng.version>2.12.0</allure.testng.version>
         <allure.version>1.5.4</allure.version>
         <aspectj.version>1.9.4</aspectj.version>
-        <allure.jira.version>2.13.1</allure.jira.version>
+        <allure.jira.version>2.13.2</allure.jira.version>
         <converter.jackson.version>2.7.1</converter.jackson.version>
     </properties>
 
